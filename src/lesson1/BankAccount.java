@@ -1,3 +1,5 @@
+// Did the actual logic stuff myself but messed around with genval some more 
+
 package lesson1;
 
 import java.util.Random;
